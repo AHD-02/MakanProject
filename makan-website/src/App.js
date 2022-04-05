@@ -5,6 +5,9 @@ function App() {
   return (
    <div >
     <Banner />
+    <div>
+      Hello
+    </div>
    </div>
   );
 }
