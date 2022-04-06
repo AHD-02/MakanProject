@@ -5,8 +5,11 @@ const Banner = () =>
     
     return(
      <div>
-     <h3 className = "text-blue-600 hover:text-green-600 text-sky-400/50">Ahmad</h3>
-     <nav>Alziq</nav>
+     <img src="https://adminassets.devops.arabiaweather.com/sites/default/files/field/image/farm-chalet.jpg" width={300} height={300} />
+     <img 
+     src="https://adminassets.devops.arabiaweather.com/sites/default/files/field/image/farm-chalet.jpg"
+     width={300} height={300} 
+     className = "" />
      </div>
     )
 }
